@@ -12,7 +12,9 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 
 ## How-Tos and Tools
 
+* [Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api) from OpenAI
 * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide?utm_source=tldrai)
+* [AIPRM Prompt Library Chrome Extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 * [Awesome Prompts Repository](https://github.com/f/awesome-chatgpt-prompts)
 * [Customizing GPT-3](https://openai.com/blog/customizing-gpt-3) - Open AI Blog
 
@@ -21,3 +23,5 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [Hugging Face](https://huggingface.co/) model repository
 * [Meta's LLaMa](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 * [And in C](https://github.com/ggerganov/llama.cpp), but [on a Raspberry Pi?](https://github.com/ggerganov/llama.cpp/issues/58), with [leaked model weights?](https://www.reddit.com/r/deeplearning/comments/11hezvk/metas_llama_weights_leaked_on_torrent_and_the/)
+* [Introducing Claude](https://www.anthropic.com/index/introducing-claude)
+* [Introducing Bard](https://bard.google.com/)
