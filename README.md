@@ -9,6 +9,7 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [The Inside Story of ChatGPT](https://archive.ph/Dk7ka) - MIT Technology Review
 * [What is ChatGPT and how does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - Stephen Wolfram
 * [Early Experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+* [GPT-4 is a Reasoning Engine](https://every.to/chain-of-thought/gpt-4-is-a-reasoning-engine)
 
 ## How-Tos and Tools
 
