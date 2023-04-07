@@ -18,6 +18,7 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [AIPRM Prompt Library Chrome Extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 * [Awesome Prompts Repository](https://github.com/f/awesome-chatgpt-prompts)
 * [Customizing GPT-3](https://openai.com/blog/customizing-gpt-3) - Open AI Blog
+* [Self Reflection](https://newatlas.com/technology/gpt-4-reflexion/)
 
 ## Beyond ChatGPT
 
