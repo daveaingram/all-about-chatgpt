@@ -27,3 +27,6 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [And in C](https://github.com/ggerganov/llama.cpp), but [on a Raspberry Pi?](https://github.com/ggerganov/llama.cpp/issues/58), with [leaked model weights?](https://www.reddit.com/r/deeplearning/comments/11hezvk/metas_llama_weights_leaked_on_torrent_and_the/)
 * [Introducing Claude](https://www.anthropic.com/index/introducing-claude)
 * [Introducing Bard](https://bard.google.com/)
+
+## The philosophical bits
+* [Feedback -> Agency](https://subconscious.substack.com/p/feedback-is-all-you-need?utm_medium=email)
