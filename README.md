@@ -26,6 +26,7 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [Meta's LLaMa](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 * [And in C](https://github.com/ggerganov/llama.cpp), but [on a Raspberry Pi?](https://github.com/ggerganov/llama.cpp/issues/58), with [leaked model weights?](https://www.reddit.com/r/deeplearning/comments/11hezvk/metas_llama_weights_leaked_on_torrent_and_the/)
 * [Introducing Claude](https://www.anthropic.com/index/introducing-claude)
+* [Prompt Engineering Guide for Claude](https://console.anthropic.com/docs/prompt-design) from Anthropic
 * [Introducing Bard](https://bard.google.com/)
 
 ## The philosophical bits
