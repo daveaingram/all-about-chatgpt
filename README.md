@@ -2,7 +2,9 @@
 
 This repository contains links and code for the Charleston Data Science meetup discussing ChatGPT and other LLMs. 
 
-There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dyzt2HKppvzBwXmxfsu6C0F35pdWmZE/edit?usp=sharing&ouid=106492207953704478215&rtpof=true&sd=true).
+* Slide deck for [the intro talk](https://docs.google.com/presentation/d/12dyzt2HKppvzBwXmxfsu6C0F35pdWmZE/edit?usp=sharing&ouid=106492207953704478215&rtpof=true&sd=true).
+* Slide deck for "[Prompting by Example](https://github.com/daveaingram/all-about-chatgpt/blob/main/ChatGPT%20Prompting%20By%20Example.pptx)"
+* [Squared Away](https://github.com/daveaingram/SquaredAway) python game
 
 ## About ChatGPT
 
@@ -28,6 +30,7 @@ There's also a [slide Deck for talk](https://docs.google.com/presentation/d/12dy
 * [Introducing Claude](https://www.anthropic.com/index/introducing-claude)
 * [Prompt Engineering Guide for Claude](https://console.anthropic.com/docs/prompt-design) from Anthropic
 * [Introducing Bard](https://bard.google.com/)
+* [Querri](https://querri.com) for natural language powered data management
 
 ## The philosophical bits
 * [Feedback -> Agency](https://subconscious.substack.com/p/feedback-is-all-you-need?utm_medium=email)
