@@ -19,8 +19,10 @@ This repository contains links and code for the Charleston Data Science meetup d
 * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide?utm_source=tldrai)
 * [AIPRM Prompt Library Chrome Extension](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 * [Awesome Prompts Repository](https://github.com/f/awesome-chatgpt-prompts)
+* [FlowGPT Prompt Repository]
 * [Customizing GPT-3](https://openai.com/blog/customizing-gpt-3) - Open AI Blog
 * [Self Reflection](https://newatlas.com/technology/gpt-4-reflexion/)
+* [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 
 ## Beyond ChatGPT
 
